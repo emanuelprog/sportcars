@@ -1,10 +1,5 @@
 <template>
   <v-container>
-    <v-row class="text-center">
-        <v-col cols="12">
-            <h1>Advertise your car!</h1>
-        </v-col>
-    </v-row>
     <v-row>
       <v-col cols="12" sm="8" md="3" v-for="car in cars" :key="car.id">
         <v-card class="mx-auto" max-width="344" max-height="500">

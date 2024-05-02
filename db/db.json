@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "id": "e4b5",
+      "model": "Honda Fit",
+      "description": "1.0 AT6",
+      "year": "2024",
+      "year2": "2024",
+      "km": "20000",
+      "value": "200000",
+      "state": "MS",
+      "city": "Campo Grande",
+      "url": [
+        {
+          "src": "https://midias.vrum.com.br/_midias/jpg/2024/01/11/740x420/1_honda_fit_1_4_flex_modelo_2007_cinza_de_frente_em_movimento_no_asfalto-34157751.jpg"
+        },
+        {
+          "src": "https://quatrorodas.abril.com.br/wp-content/uploads/2023/07/QR-656-CARRO-FIT-18.tif-e1695865919323.jpg?quality=70&strip=info"
+        }
+      ],
+      "offer": true,
+      "favorite": false
+    },
+    {
+      "id": "891d",
+      "model": "Fiat Argo",
+      "description": "1.8 AT6",
+      "year": "2021",
+      "year2": "2022",
+      "km": "0",
+      "value": "74900",
+      "state": "MS",
+      "city": "Campo Grande",
+      "url": [
+        {
+          "src": "https://t.ctcdn.com.br/tVXXchaKaz569NYC3pUUM07esWk=/4000x2250/smart/i789566.jpeg"
+        },
+        {
+          "src": "https://quatrorodas.abril.com.br/wp-content/uploads/2021/03/FLP2652-e1618230692589.jpg?quality=70&strip=info&w=720&crop=1"
+        }
+      ],
+      "offer": false,
+      "favorite": false
+    }
+  ]
+}
